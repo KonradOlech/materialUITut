@@ -4,11 +4,11 @@ import Create from './pages/Create';
 import { createTheme, ThemeProvider } from '@material-ui/core/styles';
 
 const theme = createTheme({
-	palette: {
-		primary: {
-			main: '#fefefe',
-		},
-	},
+	// palette: {
+	// 	primary: {
+	// 		main: '#fefefe',
+	// 	},
+	// },
 });
 
 function App() {
